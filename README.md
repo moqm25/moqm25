@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Moiez Qamar
 - 👀 I’m interested in software engineering and data analytics
-- 🌱 I’m currently pursuing degrees in Computer Science and Data Science
+- 🌱 I have my bachelor degrees in Computer Science and Data Science
 - 💞️ I’m looking to collaborate on any projects which will give me the experience to join the workforce
-- 📫 How to reach me: moiezqamar@bloomberg.net
+- 📫 How to reach me: moiezqamar@gmail.com
 
 <!---
 moqm25/moqm25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
